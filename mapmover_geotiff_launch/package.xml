@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>mapmover_geotiff_launch</name>
+  <version>0.5.2</version>
+  <description>Contains launch files for the mapmover_geotiff mapper.</description>
+
+  <maintainer email="elias@eliascerne.com">Elias Cerne</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">https://eliascerne.com</url>
+
+  <author email="elias@eliascerne.com">Elias Cerne</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>mapmover_geotiff</exec_depend>
+  <exec_depend>mapmover_geotiff_plugins</exec_depend>
+  <exec_depend>mapmover_trajectory_server</exec_depend>
+</package>
