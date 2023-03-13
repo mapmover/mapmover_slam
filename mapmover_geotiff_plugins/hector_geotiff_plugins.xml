@@ -1,0 +1,7 @@
+<library path="lib/libmapmover_geotiff_plugins">
+  <class name="mapmover_geotiff_plugins/TrajectoryMapWriter" type="mapmover_geotiff_plugins::TrajectoryMapWriter" base_class_type="mapmover_geotiff::MapWriterPluginInterface">
+    <description>
+      This is a MapWriter plugin that draws the robot's trajectory in the map.
+    </description>
+  </class>
+</library>
